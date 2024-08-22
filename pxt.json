@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*"
     },
-    "files": [
+    "files": [ 
         "README.md",
         "main.ts",
         "_locales/en/multiplicar-strings.json",
